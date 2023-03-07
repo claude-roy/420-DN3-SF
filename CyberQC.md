@@ -34,7 +34,7 @@ Les VMs serveurs ont des adresses statiques. Vous pouvez leur assigner une adres
 sudo dhclient -v ens3
 ```
 
-Cette commande fonctionne pour toute VM Linux, vous devez remplacer le nom de l'interface par celui de votre Linux. Pour trouver le nom de l'interface :
+**Attention :** Cette commande fonctionne pour toute VM Linux (si jamais vous n'avez pas d'Internet), vous devez remplacer le nom de l'interface par celui de votre Linux. Pour trouver le nom de l'interface :
 
 ```bash
 ip link
@@ -65,7 +65,7 @@ Les VMs serveurs ont des adresses statiques. Vous pouvez leur assigner une adres
 sudo dhclient -v ens3
 ```
 
-Cette commande fonctionne pour toute VM Linux, vous devez remplacer le nom de l'interface par celui de votre Linux. Pour trouver le nom de l'interface :
+**Attention :** Cette commande fonctionne pour toute VM Linux (si jamais vous n'avez pas d'Internet), vous devez remplacer le nom de l'interface par celui de votre Linux. Pour trouver le nom de l'interface :
 
 ```bash
 ip link
