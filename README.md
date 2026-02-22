@@ -2,7 +2,7 @@
 
 # 420-DN3-SF  
 
-| Sécurisation d'un parc informatique -- AEC (LEADN)    |
+| Sécurisation d'un parc informatique - AEC (LEADN)    |
 | :---                                                  |
 | Les menaces informatiques                            |
 | Hiver 2026 - Bloc 3 - UBR 4156                     |
