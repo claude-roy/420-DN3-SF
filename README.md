@@ -14,13 +14,13 @@ Ce calendrier est donné à titre indicatif et peut être modifié en fonction d
 
 | Cours | Date | Contenu | Exercices/TP | Évaluations sommatives[^1] |
 | :---: |  :---: | :--- | :--- | :--- |
-| 1 | 14 avr. | Introduction<br> Présentation du plan de cours<br> CyberOps associate -- module 13 Les attaquants et leurs outils | Exercice 1 -- Préparer un environnement de travail |  |  
-| 2 | 16 avr. | CyberOps -- module 23 Évaluation des vulnérabilités des terminaux | | |
+| 1 | 14 avr. | Introduction<br> Présentation du plan de cours<br> CyberOps associate - module 13 Les attaquants et leurs outils | Exercice 1 - Préparer un environnement de travail |  |  
+| 2 | 16 avr. | CyberOps - module 23 Évaluation des vulnérabilités des terminaux | | |
 | 3 | 21 avr. | Introduction à Try Hack Me<br> THM - Tutorial<br> THM - OpenVPN<br> THM - Salle Mitre ATT&CK | | |
 | 4 | 23 avr. | CyberOps Module 14 Les menaces et les attaques communes<br> Le segment, le paquet, la trame : révision sur le réseau. | Exercice 2 - Analyseurs de protocoles | |
 | 5 | 25 avr.<br> samedi | Les outils de connexion : Ncat, socat, powershell | Exercice 3 - Introduction à ncat, socat et Powershell ||
 | 6 | 25 avr.<br> samedi | Les outils de découverte du réseau : ping, nping, nmap | Exercice 4 - Découvrir nping et nmap |
-| 7 | 28 avr. | | Exercice 5 -- Découvrir scapy |  **Évaluation -- Menaces, attaques, vulnérabilités.**<br> **20 %** |
+| 7 | 28 avr. | | Exercice 5 - Découvrir scapy |  **Évaluation - Menaces, attaques, vulnérabilités.**<br> **20 %** |
 | 8 | 30 avr. | Les outils de découverte des vulnérabilités : Nessus, OpenVAS, nmap scripts | Exercice 6 - Nessus et scripts nmap ||
 | 9 | 5 mai | Les mots de passe | Exercice 7 - Découvrir Metasploit ||
 | 10 | 7 mai | | Exercice 8 - Extraction des mots de passe ||
