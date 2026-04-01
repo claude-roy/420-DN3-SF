@@ -59,5 +59,3 @@ Ce calendrier est donné à titre indicatif et peut être modifié en fonction d
 
 - Site Web de Try Hack Me, inscription obligatoire d'un minimum de 2 mois (doit pouvoir couvrir le cours complet jusqu'au 4 juin) à \$14US/mois : <https://tryhackme.com/> (attendre la présentation du plan de cours avant de vous inscrire).
 
-- CyberQuébec (optionnel) : <https://vpn.cyberquebec.org>
-    - Pour l'information sur l'utilisation de CyberQuébec, consulter le document suivant : [CyberQC.md](./CyberQC.md).
