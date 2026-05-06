@@ -24,15 +24,15 @@ Ce calendrier est donné à titre indicatif et peut être modifié en fonction d
 | 8 | 30 avr. | Les outils de découverte des vulnérabilités : Nessus, OpenVAS, nmap scripts | Exercice 6 - Nessus et scripts nmap ||
 | 9 | 5 mai | Les mots de passe | Exercice 7 - Découvrir Metasploit ||
 | 10 | 7 mai | | Exercice 8 - Extraction des mots de passe ||
-| 11 | 12 mai | | **TP - Trouver les mots de passe** ||
-| 12 | 14 mai | THM - Burp Suite : Basic, Repeater, Intruder | **Début des salles THM** ||
-| 13 | 19 mai | THM - Introduction to OWASP ZAP<br> THM - Walking An Application |||
-| 14 | 21 mai | THM - SQL Injection<br> THM - File Inclusion | | **Fin des exercices à remettre.**<br> **10 %** |
-| 15 | 23 mai<br>samedi | THM - Authentication Bypass<br> THM - Cross-site Scripting | | **TP - Trouver les mots de passe.**<br> **20 %** |
-| 16 | 23 mai<br>samedi | THM - SSRF<br> THM - IDOR<br> THM - Command Injection | ||
-| 17 | 26 mai | THM - Subdomain Enumeration<br>THM - Active Directory Basics<br>THM - Breaching Active Directory | ||
-| 18 | 28 mai | THM - Introduction to Antivirus | ||
-| 19 | 2 juin | THM - AV Evasion: Shellcode | ||
+| 11 | 12 mai | Travail sur les exercices |  ||
+| 12 | 14 mai |  | **TP - Trouver les mots de passe** ||
+| 13 | 19 mai | THM - Burp Suite : Basic, Repeater, Intruder | **Début des salles THM**||
+| 14 | 21 mai | THM - Introduction to OWASP ZAP<br> THM - Walking An Application | |  |
+| 15 | 23 mai<br>samedi | THM - SQL Injection<br> THM - File Inclusion | | **Fin des exercices à remettre.**<br> **10 %** |
+| 16 | 23 mai<br>samedi | THM - Authentication Bypass<br> THM - Cross-site Scripting | | |
+| 17 | 26 mai | THM - SSRF<br> THM - IDOR<br> THM - Command Injection | | **TP - Trouver les mots de passe.**<br> **20 %**|
+| 18 | 28 mai | THM - Subdomain Enumeration<br>THM - Active Directory Basics<br>THM - Breaching Active Directory | ||
+| 19 | 2 juin | THM - Introduction to Antivirus<br>THM - AV Evasion: Shellcode | ||
 | 20 | 4 juin | **Évaluation finale à caractère synthèse** | | **Fin des salles THM.**<br>**20 %**<br>**EFCS 30 %** |
 
 [^1]: Cette colonne représente les dates de remise pour les exercices et les travaux. Pour les évaluations, elle représenta la date de l'évaluation. Pour l'EFCS, elle représente la date limite pour la remise et/ou la présentation.  
