@@ -35,6 +35,10 @@ require 'http/cookie_jar/hash_store' # subclass second
 
 5. Restart ```msfconsole```.
 
+### Une autre solution possible  
+
+Il est également possible d'essayer la commande ```reload_all``` à l'intérieur de msfconsole.
+
 ## Erreur avec Metasploit et postgres
 
 Si vous avez le message d'erreur :  
